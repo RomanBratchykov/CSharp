@@ -1,0 +1,15 @@
+D:\gitrepo\CSharp\exercise\bin\Debug\net8.0\exercise.exe
+D:\gitrepo\CSharp\exercise\bin\Debug\net8.0\exercise.deps.json
+D:\gitrepo\CSharp\exercise\bin\Debug\net8.0\exercise.runtimeconfig.json
+D:\gitrepo\CSharp\exercise\bin\Debug\net8.0\exercise.dll
+D:\gitrepo\CSharp\exercise\bin\Debug\net8.0\exercise.pdb
+D:\gitrepo\CSharp\exercise\obj\Debug\net8.0\exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepo\CSharp\exercise\obj\Debug\net8.0\exercise.AssemblyInfoInputs.cache
+D:\gitrepo\CSharp\exercise\obj\Debug\net8.0\exercise.AssemblyInfo.cs
+D:\gitrepo\CSharp\exercise\obj\Debug\net8.0\exercise.csproj.CoreCompileInputs.cache
+D:\gitrepo\CSharp\exercise\obj\Debug\net8.0\exercise.sourcelink.json
+D:\gitrepo\CSharp\exercise\obj\Debug\net8.0\exercise.dll
+D:\gitrepo\CSharp\exercise\obj\Debug\net8.0\refint\exercise.dll
+D:\gitrepo\CSharp\exercise\obj\Debug\net8.0\exercise.pdb
+D:\gitrepo\CSharp\exercise\obj\Debug\net8.0\exercise.genruntimeconfig.cache
+D:\gitrepo\CSharp\exercise\obj\Debug\net8.0\ref\exercise.dll
